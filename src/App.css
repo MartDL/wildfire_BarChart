@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+svg {
+  background-color: rgb(187, 189, 188);
+  margin: 20px;
+}
+
+.xAxis {
+  overflow: visible;
+}
+
+rect {
+  fill: steelblue;
+}
+
+text {
+  font-size: 1em;
+}
